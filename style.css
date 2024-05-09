@@ -1,0 +1,19 @@
+.container{
+    margin:40vh;
+    text-align: center;
+}
+.card{
+    background-color: wheat;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    text-align: justify;
+    width: 70%;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+img{
+    height: 100%;
+}
+.card-body{
+    
+    padding: 15px;
+}
